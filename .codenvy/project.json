@@ -1,1 +1,1 @@
-{"mixinTypes":[],"builders":{"configs":{}},"runners":{"configs":{}},"description":"","type":"blank","attributes":{}}
+{"mixinTypes":["contribution"],"builders":{"configs":{}},"runners":{"configs":{}},"description":"","type":"blank","attributes":{}}

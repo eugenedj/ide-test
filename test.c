@@ -2,6 +2,7 @@
 /**
  * This is a comment.
  * second line
+ * Third line
  * /
 int main()
 {
